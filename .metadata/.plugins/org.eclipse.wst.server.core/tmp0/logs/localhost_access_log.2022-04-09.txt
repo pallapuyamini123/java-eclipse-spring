@@ -1,0 +1,4 @@
+127.0.0.1 - - [09/Apr/2022:19:10:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Apr/2022:19:10:04 +0530] "GET /springmnvcday36/WEB-INF/context/application-context.xml HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [09/Apr/2022:19:10:05 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [09/Apr/2022:19:10:22 +0530] "GET /springmnvcday36/come HTTP/1.1" 404 775
